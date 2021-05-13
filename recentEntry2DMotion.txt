@@ -1,0 +1,5 @@
+Initial Velocity: 8.0 meters/second
+Final Velocity: 10.0 meters/second
+X Displacement: 63.0 meters
+Time:  7.0 seconds
+Acceleration 0.2857142857142857 meters/second^2

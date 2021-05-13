@@ -1,0 +1,3 @@
+Initial Velocity: 8.0 meters/second
+Final Velocity: 15.0 meters
+X Displacement: 23.0 degrees
